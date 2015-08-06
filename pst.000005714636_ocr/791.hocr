@@ -1,0 +1,30 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/144/pst.000005714636/791.png"; bbox 0 0 4100 6352; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 386 1489 2042 1572">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 386 1489 2042 1572">
+     <span class='ocr_line' id='line_1_1' title="bbox 386 1489 2042 1572; baseline 0 -14"><span class='ocrx_word' id='word_1_1' title='bbox 386 1489 981 1572; x_wconf 65' lang='lat' dir='ltr'>Patrologia</span> <span class='ocrx_word' id='word_1_2' title='bbox 1046 1508 1396 1558; x_wconf 89' lang='lat' dir='ltr'>cursus</span> <span class='ocrx_word' id='word_1_3' title='bbox 1466 1490 2042 1572; x_wconf 88' lang='lat' dir='ltr'>completus.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 148 1593 902 1677">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 148 1593 902 1677">
+     <span class='ocr_line' id='line_1_2' title="bbox 148 1593 902 1677; baseline -0.001 -15"><span class='ocrx_word' id='word_1_4' title='bbox 148 1593 495 1662; x_wconf 90' lang='lat' dir='ltr'><strong>Series</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 566 1612 902 1677; x_wconf 67' lang='lat' dir='ltr'>graca.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1776 1900 2175 1969">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1776 1900 2175 1969">
+     <span class='ocr_line' id='line_1_3' title="bbox 1776 1900 2175 1969; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 1776 1900 2175 1969; x_wconf 87' lang='lat'>5714636</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 4077 1396 4086 2054">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 4077 1554 4083 1920">
+     <span class='ocr_line' id='line_1_4' title="bbox 4077 1554 4079 1602; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 4077 1554 4079 1602; x_wconf 75' lang='grc'><strong><em>4</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 4079 1714 4081 1766; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 4079 1714 4081 1766; x_wconf 57' lang='grc'><strong>1</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 4081 1874 4083 1920; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 4081 1874 4083 1920; x_wconf 60' lang='grc'><strong>1</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
